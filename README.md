@@ -111,7 +111,8 @@ Read about various approaches to testing node.js code at:
 - [Mikeal Rogers](https://github.com/mikeal) - Request
 - [James Haliday "substack"](https://github.com/substack) - Browserify, dnode, Optimist
 - [Guillermo Rauch](https://github.com/guille) - Socket.IO
-- 
+
+
 ## Credits
 
 Inspired by amazing [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning)
