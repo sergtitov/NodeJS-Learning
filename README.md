@@ -126,8 +126,8 @@ Inspired by amazing [AngularJS-Learning](https://github.com/jmcunningham/Angular
 
 ## Contributors
 
-[Eugene Tsypkin](https://github.com/jhony-chikens)
-[Pavel Voronin](https://github.com/voroninpaul)
+- [Eugene Tsypkin](https://github.com/jhony-chikens)
+- [Pavel Voronin](https://github.com/voroninpaul)
 
 ## License
 
