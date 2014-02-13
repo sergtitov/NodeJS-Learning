@@ -91,6 +91,13 @@ Read about various approaches to testing node.js code at:
 - [Testing in Node.js](http://code.tutsplus.com/tutorials/testing-in-nodejs--net-35018)
 - [Testing NodeJS with Mocha, Should, Sinon, and JSCoverage](http://www.slideshare.net/mlilley/testing-node-js-with-mocha)
 
+## Authentication and Security
+- TODO
+
+
+## Development Tools
+- TODO
+
 ## Keep up to date
 
 ### What To Read
@@ -116,6 +123,11 @@ Read about various approaches to testing node.js code at:
 ## Credits
 
 Inspired by amazing [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning)
+
+## Contributors
+
+[Eugene Tsypkin](https://github.com/jhony-chikens)
+[Pavel Voronin](https://github.com/voroninpaul)
 
 ## License
 
