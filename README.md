@@ -69,14 +69,28 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 - [JavaScript on the Server Using Node.js and Express](http://www.amazon.com/JavaScript-Server-Node-js-Express-Development/dp/0956737080/ref=sr_1_20?s=books&ie=UTF8&qid=1391739340&sr=1-20&keywords=%22node.js%22)
 - [Express.js Guide](http://www.amazon.com/Express-js-Guide-Comprehensive-Book/dp/1494269279/ref=sr_1_2?s=books&ie=UTF8&qid=1391740486&sr=1-2&keywords=%22node.js%22+express)
 
-## Frameworks and Libraries
+## Frameworks
 
 - TODO
 
-- [express.js](http://expressjs.com/guide.html)
-- socket.io
-- express.io
+- [express.js](http://expressjs.com/guide.html) - Sinatra inspired web development framework for node.js;
+- [socket.io](https://github.com/LearnBoost/socket.io) - Realtime application framework for Node.JS, with HTML5 WebSockets and cross-browser fallbacks support
+- [express.io](https://github.com/techpines/express.io) = express + socket.io
+- [koa](https://github.com/koajs/koa) - Expressive middleware for node.js using generators based on [co];
+- [meteor.js](https://github.com/meteor/meteor) - Meteor is an ultra-simple environment for building modern web applications. Built using node.js Meteor is a framework on its own. Please see [amazing list of Meteor resources](http://yauh.de/articles/376/best-learning-resources-for-meteorjs) for more information.
+- [Geddy](http://geddyjs.org) - A simple, structured web framework for Node
+- [Derby](https://github.com/codeparty/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers
+- [Sails.js](http://sailsjs.org) - Realtime MVC Framework for Node.js
+- [Flatiron](https://github.com/flatiron/flatiron) - framework components for node.js and the browser
+- [total.js](https://github.com/totaljs/framework) - web application framework for creating a rich web sites and web services
+- [SocketStream](https://github.com/socketstream/socketstream) - A fast, modular Node.js web framework dedicated to building realtime single-page apps
+- [Compound](http://compoundjs.com/) - Compound's formula is Express + structure + extensions
+
+
+## Libraries
+
 - connect
+- [co][co] - The ultimate generator based flow-control goodness for nodejs;
 - ejs
 - lodash
 - request
@@ -128,6 +142,8 @@ Inspired by amazing [AngularJS-Learning](https://github.com/jmcunningham/Angular
 
 - [Eugene Tsypkin](https://github.com/jhony-chikens)
 - [Pavel Voronin](https://github.com/voroninpaul)
+
+  [co]: https://github.com/visionmedia/co
 
 ## License
 
