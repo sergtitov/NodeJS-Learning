@@ -27,28 +27,28 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 
 ### Desktop
 
-- [WebStorm/PHPStorm/IDEA]
-- [Aptana]
-- []
-- [Visual Studio]
+- [WebStorm/PHPStorm](http://www.jetbrains.com/webstorm/) - popular and extremely powerful IDE for coding web applications. Paid but you can get it for free , if you are an open-source developer (requierd an application approval). 
+- [Node.js Tools for Visual Studio](https://nodejstools.codeplex.com/) - see [blog post](http://www.hanselman.com/blog/IntroducingNodejsToolsForVisualStudio.aspx) from team mamber Scott Hanselman.
 - NetBeans with [Node.js plugin](http://plugins.netbeans.org/plugin/36653/nodejs)
-- [Coda]
+- [Nodejs Sublime Text 2 Package](https://github.com/tanepiper/SublimeText-Nodejs) - a set of code completion, scripts and tools to work with Node.js.
 - [WebMatrix](http://www.microsoft.com/web/webmatrix/) - is a free, lightweight, cloud-connected web development tool from Microsoft.
-- Kate
-- [Nide](http://coreh.github.com/nide/)
+- [CodeRunner](http://krillapps.com/coderunner/) - Mac only paid IDE.
+- [Komodo](http://www.activestate.com/komodo-ide/features) - full-featured IDE from AciveState is paid but there is also lean free version [Komodo Edit](http://www.activestate.com/komodo-edit).
+- [Nide](http://coreh.github.io/nide/) - is a web-based IDE for Node.JS that can run locally or on a remote server. Available both as a command-line tool and as a standalone Mac app.
 - [Nodeclipse & Enide](http://www.nodeclipse.org/) - is free open-source IDE based on Eclipse.
+- [Aptana Studio](http://www.aptana.com/)
 - [Scripted](https://github.com/scripted-editor/scripted) 
 
 ### Online
 
-- [Cloud9]() - [install it locally](http://www.cambus.net/setting-up-a-node-js-development-environment-with-npm-and-cloud9-ide-installed-locally/).
+- [Cloud9](https://c9.io/) - cloud-based IDE with native support for development of Node.js applications including debugging and other features. Note that you can also [install it locally](http://www.cambus.net/setting-up-a-node-js-development-environment-with-npm-and-cloud9-ide-installed-locally/).
 - [Nitrous.io](https://www.nitrous.io/) - is both an IDE and environment in the cloud. Has both online and desktop versions. Paid.
-- Cloud IDE (a.k.a eXo Cloud IDE, a.k.a codenvy)
-- Kodigen
-- [ChocolateJS](https://chocolatejs.org/)
+- [Koding](https://koding.com) - offers you a free rootable VM with Node. Also you can work on the same code with your friends.
+- [Cloud IDE (a.k.a eXo Cloud IDE, a.k.a codenvy)](https://codenvy.com/) - cloud development IDE and environemnt with continuous integration and other features. Offers both hosted and on-premises solutions.
 
 ## Debugging
 
+- https://github.com/node-inspector/node-inspector
 - http://howtonode.org/debugging-with-node-inspector
 - https://github.com/joyent/node/wiki/Using-Eclipse-as-Node-Applications-Debugger
 
