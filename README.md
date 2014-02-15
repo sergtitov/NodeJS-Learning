@@ -25,10 +25,13 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 
 ## Development Tools/IDEs
 
-### Desktop
+## Tools
 
-- [Yeoman](http://yeoman.io/) - Project generator
-- [Gulp](http://gulpjs.com/) - Task runner
+### Desktop IDEs
+
+- [Yeoman](http://yeoman.io/) - Project and modules generator
+- [Gulp](http://gulpjs.com/) - Task runner/build system
+- [Grunt]() - Task runner/build system
 - [WebStorm/PHPStorm](http://www.jetbrains.com/webstorm/) - popular and extremely powerful IDE for coding web applications. Paid but you can get it for free , if you are an open-source developer (requierd an application approval). 
 - [Node.js Tools for Visual Studio](https://nodejstools.codeplex.com/) - see [blog post](http://www.hanselman.com/blog/IntroducingNodejsToolsForVisualStudio.aspx) from team mamber Scott Hanselman.
 - NetBeans with [Node.js plugin](http://plugins.netbeans.org/plugin/36653/nodejs)
@@ -64,7 +67,7 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 - [Node.js Modules Official Documentation](http://nodejs.org/api/modules.html)
 - [Managing module dependencies](http://howtonode.org/managing-module-dependencies)
 - [Using Node's Event Module](http://code.tutsplus.com/tutorials/using-nodes-event-module--net-35941)
-
+- [Understanding exports vs. module.exports](http://openmymind.net/2012/2/3/Node-Require-and-Exports/)
 
 ## Asyncrhonous Programming
 
@@ -76,7 +79,7 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
     - [Promises with Q](http://www.slideshare.net/async_io/javascript-promisesq-library-17206726)
 - [ES6 Generators and Preventing Callback Hell](http://www.sitepoint.com/javascript-generators-preventing-callback-hell/)
 - [Managing Node.js Callback Hell with Promises, Generators and Other Approaches](http://strongloop.com/strongblog/node-js-callback-hell-promises-generators/?utm_source=nodeweekly&utm_medium=email)
-- [Understanding exports vs. module.exports](http://openmymind.net/2012/2/3/Node-Require-and-Exports/)
+
 
 
 ## Node Package Manager (npm)
@@ -87,13 +90,14 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 
 ## Tutorials
 
-- TODO
 - http://nodeschool.io/
 - https://www.codeschool.com/courses/real-time-web-with-nodejs
 - [The dead-simple step-by-step guide for front-end developers to getting up and running with node.js, express, jade, and mongodb](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
-- AUTHENTICATION
+
+### Authentication
 - [Authentication](http://scotch.io/tutorials/javascript/easy-node-authentication-setup-and-local) - Goes over local, facebook & twitter authentication.
-- COMMAND LINE
+
+### Command line 
 - [Command line tool](http://javascriptplayground.com/blog/2012/08/writing-a-command-line-node-tool/)
 
 ## Blog posts/articles
@@ -166,8 +170,8 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 - config
 - Mongoose
 
-## Authentication and Security
-- Passport
+### Authentication and Security
+- [Passport](http://passportjs.org/) - simple, unobtrusive authentication for Node.js that supports OpenID and OAuth.
 
 
 ## Testing
