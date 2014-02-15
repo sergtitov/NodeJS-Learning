@@ -5,6 +5,8 @@ Learnign node.js made easy. This page contains collection of curated links to bl
 
 It was just created and will be actively updated. Please fork and submit your pull-requests, if you would like to contribute. Thanks!
 
+If you are a Chinese, here is the [Chinese version](https://github.com/youyudehexie/node123).
+
 ## Installation
 
 Go to http://nodejs.org/, download node.js installer and follow instructions. Mac OS, Windows, and Linux are supported.
@@ -50,6 +52,7 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 - [Nitrous.io](https://www.nitrous.io/) - is both an IDE and environment in the cloud. Has both online and desktop versions. Paid.
 - [Koding](https://koding.com) - offers you a free rootable VM with Node. Also you can work on the same code with your friends.
 - [Cloud IDE (a.k.a eXo Cloud IDE, a.k.a codenvy)](https://codenvy.com/) - cloud development IDE and environemnt with continuous integration and other features. Offers both hosted and on-premises solutions.
+- [modulus.io](https://modulus.io/) - Scalable application platform (PaaS) for developers, offering Node.js hosting, MongoDB, and performance analytics in the cloud. Try us for free.
 
 ## Debugging
 
@@ -87,6 +90,13 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 - [What is npm?](http://docs.nodejitsu.com/articles/getting-started/npm/what-is-npm)
 - Explore [registered public npm modules](https://npmjs.org/)
 - Hosting Private npm repository (TODO)
+
+## Community
+
+- [Node Google group](https://groups.google.com/forum/#!forum/nodejs)
+- [China community](http://cnodejs.org/)
+- [Local communily list](http://nodejs.org/community/)
+
 
 ## Tutorials
 
@@ -136,6 +146,7 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 - [The Art of Node](https://github.com/maxogden/art-of-node)
 - [JavaScript and Node FUNdamentals](https://leanpub.com/jsfun/read)
 - [Mixu's Node book](http://book.mixu.net/node/)
+- [A collection of Node.js books](http://book.rednode.cn/)
 
 ## Paid Books
 
@@ -210,6 +221,15 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 - [Mikeal Rogers](https://github.com/mikeal) - Request
 - [James Haliday "substack"](https://github.com/substack) - Browserify, dnode, Optimist
 - [Guillermo Rauch](https://github.com/guille) - Socket.IO
+
+### Node mavens
+
+You can find the most famous Node.js developer at [Nodemavens](http://nodemavens.com/).
+
+## Resource
+- [Rednode garden](http://yuan.rednode.cn/resource)
+- [Nodecloud](http://nodecloud.com)
+
 
 
 ## Credits
