@@ -1,7 +1,9 @@
 NodeJS-Learning
 ===============
 
-A bunch of links to blog posts, articles, videos, etc for learning Node.js
+Learnign node.js made easy. This page contains collection of curated links to blog posts, articles, videos, tutorials, books, frameworks, modules, IDEs, testing tools, etc. to help you learn Node.js and keep up to date.
+
+It was just created and will be actively updated. Please fork and submit your pull-requests, if you would like to contribute. Thanks!
 
 ## Installation
 
@@ -19,6 +21,36 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 - [JavaScript Patterns Book](http://oreilly.com/catalog/9780596806767)
 - [JavaScript: The Good Parts Book](http://oreilly.com/catalog/9780596517748/)
 - [JavaScript Promises](http://www.html5rocks.com/en/tutorials/es6/promises/)
+
+
+## Development Tools/IDEs
+
+### Desktop
+
+- [WebStorm/PHPStorm/IDEA]
+- [Aptana]
+- []
+- [Visual Studio]
+- NetBeans with [Node.js plugin](http://plugins.netbeans.org/plugin/36653/nodejs)
+- [Coda]
+- [WebMatrix](http://www.microsoft.com/web/webmatrix/) - is a free, lightweight, cloud-connected web development tool from Microsoft.
+- Kate
+- [Nide](http://coreh.github.com/nide/)
+- [Nodeclipse & Enide](http://www.nodeclipse.org/) - is free open-source IDE based on Eclipse.
+- [Scripted](https://github.com/scripted-editor/scripted) 
+
+### Online
+
+- [Cloud9]() - [install it locally](http://www.cambus.net/setting-up-a-node-js-development-environment-with-npm-and-cloud9-ide-installed-locally/).
+- [Nitrous.io](https://www.nitrous.io/) - is both an IDE and environment in the cloud. Has both online and desktop versions. Paid.
+- Cloud IDE (a.k.a eXo Cloud IDE, a.k.a codenvy)
+- Kodigen
+- [ChocolateJS](https://chocolatejs.org/)
+
+## Debugging
+
+- http://howtonode.org/debugging-with-node-inspector
+- https://github.com/joyent/node/wiki/Using-Eclipse-as-Node-Applications-Debugger
 
 ## Fundamentals
 
@@ -56,6 +88,13 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 - http://nodeschool.io/
 - https://www.codeschool.com/courses/real-time-web-with-nodejs
 
+## Videos
+
+## Free Courses
+
+## Paid Courses
+
+
 ## Free Books
 
 - [The Node Beginner Book](http://www.nodebeginner.org/#about)
@@ -70,8 +109,6 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 - [Express.js Guide](http://www.amazon.com/Express-js-Guide-Comprehensive-Book/dp/1494269279/ref=sr_1_2?s=books&ie=UTF8&qid=1391740486&sr=1-2&keywords=%22node.js%22+express)
 
 ## Frameworks
-
-- TODO
 
 - [express.js](http://expressjs.com/guide.html) - Sinatra inspired web development framework for node.js;
 - [socket.io](https://github.com/LearnBoost/socket.io) - Realtime application framework for Node.JS, with HTML5 WebSockets and cross-browser fallbacks support
@@ -96,21 +133,18 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 - request
 - config
 
-## Testing
-
-- TODO
-
-Read about various approaches to testing node.js code at:
-
-- [Testing in Node.js](http://code.tutsplus.com/tutorials/testing-in-nodejs--net-35018)
-- [Testing NodeJS with Mocha, Should, Sinon, and JSCoverage](http://www.slideshare.net/mlilley/testing-node-js-with-mocha)
-
 ## Authentication and Security
 - TODO
 
 
-## Development Tools
+## Testing
+
 - TODO
+
+- [Testing in Node.js](http://code.tutsplus.com/tutorials/testing-in-nodejs--net-35018)
+- [Testing NodeJS with Mocha, Should, Sinon, and JSCoverage](http://www.slideshare.net/mlilley/testing-node-js-with-mocha)
+
+
 
 ## Keep up to date
 
