@@ -91,7 +91,7 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 
 ## Blog posts/articles
 
--[Node.js Production Practices](http://www.joyent.com/developers/node) - fantastic overview of design, deployment and debugging technics from [Joyent](http://www.joyent.com/).
+- [Node.js Production Practices](http://www.joyent.com/developers/node) - fantastic overview of design, deployment and debugging technics from [Joyent](http://www.joyent.com/).
 
 ## Videos
 
@@ -101,7 +101,6 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 - [Collection of node.js video tutorials](http://vidinterest.com/playlist/enbeeone3/nodejs-tutorial-videos) at [vidinterest.com](vidinterest.com)
 - [Node.js has Arrived!](http://vimeo.com/70603516) - In this video, Node.js core committer Bert Belder discusses some of the new features in Node v0.12 including Streams3, VM improvements, cluster round-robin, execSync and profiling APIs.
 - [Getting started with node.js](http://channel9.msdn.com/Series/Visual-Studio-Online-Monaco/Getting-started-with-nodejs) at [channel9.msdn.com](channel9.msdn.com)
-- 
 
 ## Free Courses
 
@@ -110,7 +109,7 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 - [Getting Started with Node.js and the NPM Package Manager](http://teamtreehouse.com/library/code-racer/getting-started-with-nodejs-and-the-npm-package-manager) from [Treehouse](http://teamtreehouse.com/).
 - [Node.js First Look](http://www.lynda.com/Nodejs-tutorials/Nodejs-First-Look/101554-2.html)(beginner) and [Node.js Essential Training](http://www.lynda.com/JavaScript-tutorials/Nodejs-Essential-Training/141132-2.html)(advanced) at [lynda.com](http://www.lynda.com/Node-js-training-tutorials/1283-0.html)
 - [Meet Node.js](https://peepcode.com/products/nodejs-i) and [Full-stack Node.js](https://peepcode.com/products/full-stack-nodejs-i) at [peepcode.com](peepcode.com/)
-- [Node.js courses at Pluralsight]
+- Node.js courses at Pluralsight
     - [Meet Node.js](http://pluralsight.com/training/courses/TableOfContents?courseName=meet-nodejs)
     - [Introduction to Node.js](http://pluralsight.com/training/courses/TableOfContents?courseName=node-intro)
     - [Full Stack Node.js](http://pluralsight.com/training/courses/TableOfContents?courseName=full-stack-nodejs)
@@ -171,7 +170,7 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 
 ### Free
 
-[OpenShift](https://www.openshift.com/developers/node-js)
+- [OpenShift](https://www.openshift.com/developers/node-js)
 
 ### Paid
 
