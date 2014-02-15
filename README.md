@@ -5,7 +5,9 @@ Learnign node.js made easy. This page contains collection of curated links to bl
 
 It was just created and will be actively updated. Please fork and submit your pull-requests, if you would like to contribute. Thanks!
 
-If you are a Chinese, here is the [Chinese version](https://github.com/youyudehexie/node123).
+## Similar resources in other languages
+
+[Chinese](https://github.com/youyudehexie/node123) - fantastic list of Chinese resources.
 
 ## Installation
 
@@ -26,8 +28,6 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 
 
 ## Development Tools/IDEs
-
-## Tools
 
 ### Desktop IDEs
 
@@ -52,13 +52,14 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 - [Nitrous.io](https://www.nitrous.io/) - is both an IDE and environment in the cloud. Has both online and desktop versions. Paid.
 - [Koding](https://koding.com) - offers you a free rootable VM with Node. Also you can work on the same code with your friends.
 - [Cloud IDE (a.k.a eXo Cloud IDE, a.k.a codenvy)](https://codenvy.com/) - cloud development IDE and environemnt with continuous integration and other features. Offers both hosted and on-premises solutions.
-- [modulus.io](https://modulus.io/) - Scalable application platform (PaaS) for developers, offering Node.js hosting, MongoDB, and performance analytics in the cloud. Try us for free.
 
-## Debugging
+## Hosting Providers
 
-- https://github.com/node-inspector/node-inspector
-- http://howtonode.org/debugging-with-node-inspector
-- https://github.com/joyent/node/wiki/Using-Eclipse-as-Node-Applications-Debugger
+- [Nodejitsu](https://www.nodejitsu.com/) - hosting, databases and private NPM. Free for Open Source.
+- [OpenShift](https://www.openshift.com/developers/node-js)
+- [Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
+- [Modulus](https://modulus.io/) -Scalable application platform (PaaS) for developers, offering Node.js hosting, MongoDB, and performance analytics in the cloud. Try us for free.
+
 
 ## Fundamentals
 
@@ -84,19 +85,18 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 - [Managing Node.js Callback Hell with Promises, Generators and Other Approaches](http://strongloop.com/strongblog/node-js-callback-hell-promises-generators/?utm_source=nodeweekly&utm_medium=email)
 
 
-
 ## Node Package Manager (npm)
 
 - [What is npm?](http://docs.nodejitsu.com/articles/getting-started/npm/what-is-npm)
 - Explore [registered public npm modules](https://npmjs.org/)
 - Hosting Private npm repository (TODO)
 
-## Community
 
-- [Node Google group](https://groups.google.com/forum/#!forum/nodejs)
-- [China community](http://cnodejs.org/)
-- [Local communily list](http://nodejs.org/community/)
+## Debugging
 
+- https://github.com/node-inspector/node-inspector
+- http://howtonode.org/debugging-with-node-inspector
+- https://github.com/joyent/node/wiki/Using-Eclipse-as-Node-Applications-Debugger
 
 ## Tutorials
 
@@ -192,25 +192,22 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 - [Testing in Node.js](http://code.tutsplus.com/tutorials/testing-in-nodejs--net-35018)
 - [Testing NodeJS with Mocha, Should, Sinon, and JSCoverage](http://www.slideshare.net/mlilley/testing-node-js-with-mocha)
 
-## Hosting Providers
-
-- [OpenShift](https://www.openshift.com/developers/node-js)
-- [Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
-- [Modulus](https://modulus.io/)
-- [Nodejitsu](https://modulus.io/)
-
-
-
 ## Keep up to date
 
 ### What To Read
 
-- ["How To Node" blog](http://howtonode.org/)
-- [Googe Node.js Group](https://groups.google.com/forum/#!forum/nodejs)
-- [Google Node.js Community](https://plus.google.com/communities/115365528781941125390)
+### Communities/Groups
+
+- [Google Node.js Group](https://groups.google.com/forum/#!forum/nodejs)
+- [Google+ Node.js Community](https://plus.google.com/communities/115365528781941125390)
+- [CNode](http://cnodejs.org/) - Node.js professional Chinese community
 - [Node.js on Reddit](http://www.reddit.com/r/node/)
 - [Stackoverflow Node.js tag](http://stackoverflow.com/questions/tagged/node.js)
 - IRC - For real-time chat about Node development go to [irc.freenode.net](irc.freenode.net) in the **#node.js** channel with an [IRC client](http://colloquy.info/) or connect in your web browser to the channel using [freenode's WebChat](http://webchat.freenode.net/?channels=node.js).
+ 
+## Blogs/News
+
+- ["How To Node" blog](http://howtonode.org/)
 - [Node.js Weekly](http://nodeweekly.com/) - an email list that gathers up the latest events and news from around the Node.js community.
 - [NodeUp](http://nodeup.com/) - a podcast covering the latest Node news in the community.
 
