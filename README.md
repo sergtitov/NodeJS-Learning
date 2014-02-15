@@ -1,7 +1,7 @@
 NodeJS-Learning
 ===============
 
-Learnign node.js made easy. This page contains collection of curated links to blog posts, articles, videos, tutorials, books, frameworks, modules, IDEs, testing tools, etc. to help you learn Node.js and keep up to date.
+Learnign node.js made easy. This page contains collection of curated links to blog posts, articles, videos, tutorials, books, frameworks, modules, IDEs, testing tools, hosting providers, etc. to help you learn Node.js and keep up to date.
 
 It was just created and will be actively updated. Please fork and submit your pull-requests, if you would like to contribute. Thanks!
 
@@ -87,13 +87,36 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 - TODO
 - http://nodeschool.io/
 - https://www.codeschool.com/courses/real-time-web-with-nodejs
+- [The dead-simple step-by-step guide for front-end developers to getting up and running with node.js, express, jade, and mongodb](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
+
+## Blog posts/articles
+
+-[Node.js Production Practices](http://www.joyent.com/developers/node) - fantastic overview of design, deployment and debugging technics from [Joyent](http://www.joyent.com/).
 
 ## Videos
+
+- [Introduction to Node.js with Ryan Dahl](http://www.youtube.com/watch?v=jo_B4LTHi3I) - Ryan Dahl is a Node.js creator. Must see.
+- [142 conference presentation Videos](http://lanyrd.com/topics/nodejs/video/) from [Lanyard.com](http://lanyrd.com/)
+- [Node.js video tutorials by Pedro Teixeira](http://nodetuts.com/)
+- [Collection of node.js video tutorials](http://vidinterest.com/playlist/enbeeone3/nodejs-tutorial-videos) at [vidinterest.com](vidinterest.com)
+- [Node.js has Arrived!](http://vimeo.com/70603516) - In this video, Node.js core committer Bert Belder discusses some of the new features in Node v0.12 including Streams3, VM improvements, cluster round-robin, execSync and profiling APIs.
+- [Getting started with node.js](http://channel9.msdn.com/Series/Visual-Studio-Online-Monaco/Getting-started-with-nodejs) at [channel9.msdn.com](channel9.msdn.com)
+- 
 
 ## Free Courses
 
 ## Paid Courses
-
+- [Real-time Web with Node.js](https://www.codeschool.com/courses/real-time-web-with-nodejs) from [codeschool.com](https://www.codeschool.com/)
+- [Getting Started with Node.js and the NPM Package Manager](http://teamtreehouse.com/library/code-racer/getting-started-with-nodejs-and-the-npm-package-manager) from [Treehouse](http://teamtreehouse.com/).
+- [Node.js First Look](http://www.lynda.com/Nodejs-tutorials/Nodejs-First-Look/101554-2.html)(beginner) and [Node.js Essential Training](http://www.lynda.com/JavaScript-tutorials/Nodejs-Essential-Training/141132-2.html)(advanced) at [lynda.com](http://www.lynda.com/Node-js-training-tutorials/1283-0.html)
+- [Meet Node.js](https://peepcode.com/products/nodejs-i) and [Full-stack Node.js](https://peepcode.com/products/full-stack-nodejs-i) at [peepcode.com](peepcode.com/)
+- [Node.js courses at Pluralsight]
+    - [Meet Node.js](http://pluralsight.com/training/courses/TableOfContents?courseName=meet-nodejs)
+    - [Introduction to Node.js](http://pluralsight.com/training/courses/TableOfContents?courseName=node-intro)
+    - [Full Stack Node.js](http://pluralsight.com/training/courses/TableOfContents?courseName=full-stack-nodejs)
+    - [Building AngularJS and Node.js Apps with the MEAN Stack](http://pluralsight.com/training/courses/TableOfContents?courseName=building-angularjs-nodejs-apps-mean)
+    - [Web Development with ExpressJS](http://pluralsight.com/training/courses/TableOfContents?courseName=expressjs)
+    - [Node on Windows and Azure](http://pluralsight.com/training/courses/TableOfContents?courseName=node-on-azure)
 
 ## Free Books
 
@@ -144,7 +167,13 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 - [Testing in Node.js](http://code.tutsplus.com/tutorials/testing-in-nodejs--net-35018)
 - [Testing NodeJS with Mocha, Should, Sinon, and JSCoverage](http://www.slideshare.net/mlilley/testing-node-js-with-mocha)
 
+## Hosting Providers
 
+### Free
+
+[OpenShift](https://www.openshift.com/developers/node-js)
+
+### Paid
 
 ## Keep up to date
 
