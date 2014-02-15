@@ -76,6 +76,7 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
     - [Promises with Q](http://www.slideshare.net/async_io/javascript-promisesq-library-17206726)
 - [ES6 Generators and Preventing Callback Hell](http://www.sitepoint.com/javascript-generators-preventing-callback-hell/)
 - [Managing Node.js Callback Hell with Promises, Generators and Other Approaches](http://strongloop.com/strongblog/node-js-callback-hell-promises-generators/?utm_source=nodeweekly&utm_medium=email)
+- [Understanding exports vs. module.exports](http://openmymind.net/2012/2/3/Node-Require-and-Exports/)
 
 
 ## Node Package Manager (npm)
@@ -90,7 +91,10 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 - http://nodeschool.io/
 - https://www.codeschool.com/courses/real-time-web-with-nodejs
 - [The dead-simple step-by-step guide for front-end developers to getting up and running with node.js, express, jade, and mongodb](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
+- AUTHENTICATION
 - [Authentication](http://scotch.io/tutorials/javascript/easy-node-authentication-setup-and-local) - Goes over local, facebook & twitter authentication.
+- COMMAND LINE
+- [Command line tool](http://javascriptplayground.com/blog/2012/08/writing-a-command-line-node-tool/)
 
 ## Blog posts/articles
 
