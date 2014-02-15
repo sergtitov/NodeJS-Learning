@@ -27,6 +27,8 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 
 ### Desktop
 
+- [Yeoman](http://yeoman.io/) - Project generator
+- [Gulp](http://gulpjs.com/) - Task runner
 - [WebStorm/PHPStorm](http://www.jetbrains.com/webstorm/) - popular and extremely powerful IDE for coding web applications. Paid but you can get it for free , if you are an open-source developer (requierd an application approval). 
 - [Node.js Tools for Visual Studio](https://nodejstools.codeplex.com/) - see [blog post](http://www.hanselman.com/blog/IntroducingNodejsToolsForVisualStudio.aspx) from team mamber Scott Hanselman.
 - NetBeans with [Node.js plugin](http://plugins.netbeans.org/plugin/36653/nodejs)
@@ -88,6 +90,7 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 - http://nodeschool.io/
 - https://www.codeschool.com/courses/real-time-web-with-nodejs
 - [The dead-simple step-by-step guide for front-end developers to getting up and running with node.js, express, jade, and mongodb](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
+- [Authentication](http://scotch.io/tutorials/javascript/easy-node-authentication-setup-and-local) - Goes over local, facebook & twitter authentication.
 
 ## Blog posts/articles
 
@@ -101,8 +104,10 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 - [Collection of node.js video tutorials](http://vidinterest.com/playlist/enbeeone3/nodejs-tutorial-videos) at [vidinterest.com](vidinterest.com)
 - [Node.js has Arrived!](http://vimeo.com/70603516) - In this video, Node.js core committer Bert Belder discusses some of the new features in Node v0.12 including Streams3, VM improvements, cluster round-robin, execSync and profiling APIs.
 - [Getting started with node.js](http://channel9.msdn.com/Series/Visual-Studio-Online-Monaco/Getting-started-with-nodejs) at [channel9.msdn.com](channel9.msdn.com)
+-[Basics of Express and Mongo](http://www.youtube.com/watch?v=eD2I0zAjM5g&list=PLw2e3dFxewkLL73aUzOP-efQnXOTtMLbY)
 
 ## Free Courses
+- [Startup engineering by Stanford](https://www.coursera.org/course/startup)
 
 ## Paid Courses
 - [Real-time Web with Node.js](https://www.codeschool.com/courses/real-time-web-with-nodejs) from [codeschool.com](https://www.codeschool.com/)
@@ -149,14 +154,16 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 ## Libraries
 
 - connect
+- Jade
 - [co][co] - The ultimate generator based flow-control goodness for nodejs;
 - ejs
 - lodash
 - request
 - config
+- Mongoose
 
 ## Authentication and Security
-- TODO
+- Passport
 
 
 ## Testing
@@ -168,11 +175,12 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 
 ## Hosting Providers
 
-### Free
-
 - [OpenShift](https://www.openshift.com/developers/node-js)
+- [Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
+- [Modulus](https://modulus.io/)
+- [Nodejitsu](https://modulus.io/)
 
-### Paid
+
 
 ## Keep up to date
 
