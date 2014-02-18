@@ -123,6 +123,7 @@ To use Node.js you need to have a decent understanding of JavaScript language.
 ## Videos
 
 - [Introduction to Node.js with Ryan Dahl](http://www.youtube.com/watch?v=jo_B4LTHi3I) - Ryan Dahl is a Node.js creator. Must see.
+- [Alex Ford: Node.js & Express 101](http://www.youtube.com/watch?v=BN0JlMZCtNU)
 - [142 conference presentation Videos](http://lanyrd.com/topics/nodejs/video/) from [Lanyard.com](http://lanyrd.com/)
 - [Node.js video tutorials by Pedro Teixeira](http://nodetuts.com/)
 - [Collection of node.js video tutorials](http://vidinterest.com/playlist/enbeeone3/nodejs-tutorial-videos) at [vidinterest.com](vidinterest.com)
