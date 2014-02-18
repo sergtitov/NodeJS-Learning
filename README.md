@@ -179,10 +179,10 @@ To use Node.js you need to have a decent understanding of JavaScript language.
 - [Kraken](https://github.com/paypal/kraken-js) - Paypal's web application bootstrapping module.
 
 ## CMS
--[Ghost](https://ghost.org/)
--[Keystone](http://keystonejs.com/)
--[Calipso](http://calip.so/)
--[Hatch](http://hatchjs.com/)
+- [Ghost](https://ghost.org/)
+- [Keystone](http://keystonejs.com/)
+- [Calipso](http://calip.so/)
+- [Hatch](http://hatchjs.com/)
 
 ## Libraries
 
@@ -251,6 +251,8 @@ Inspired by amazing [AngularJS-Learning](https://github.com/jmcunningham/Angular
 
 - [Eugene Tsypkin](https://github.com/jhony-chikens)
 - [Pavel Voronin](https://github.com/voroninpaul)
+- [jacksongeller](https://github.com/jacksongeller)
+- [Pana Wang](https://github.com/Pana)
 
   [co]: https://github.com/visionmedia/co
 
