@@ -15,8 +15,8 @@ Go to http://nodejs.org/, download node.js installer and follow instructions. Ma
 
 ## JavaScript
 
-To use Node.js you need to have a decent understanding of JavaScirpt language.
-
+To use Node.js you need to have a decent understanding of JavaScript language.
+- [Codecademy - JS](http://www.codecademy.com/tracks/javascript) - Good for practicing and learning syntax.
 - [Crockford's videos](http://yuiblog.com/crockford/)
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
 - [Essential JavaScript Design Patterns For Beginners](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
@@ -28,8 +28,6 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 
 
 ## Development Tools/IDEs
-
-### Desktop IDEs
 
 - [Yeoman](http://yeoman.io/) - Project and modules generator
 - [Gulp](http://gulpjs.com/) - Task runner/build system
@@ -57,8 +55,8 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 
 - [Nodejitsu](https://www.nodejitsu.com/) - hosting, databases and private NPM. Free for Open Source.
 - [OpenShift](https://www.openshift.com/developers/node-js)
-- [Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
-- [Modulus](https://modulus.io/) -Scalable application platform (PaaS) for developers, offering Node.js hosting, MongoDB, and performance analytics in the cloud. Try us for free.
+- [Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) - Dead simple to use.
+- [Modulus](https://modulus.io/) -Scalable application platform (PaaS) for developers, offering Node.js hosting, MongoDB, and performance analytics in the cloud.
 
 
 ## Fundamentals
@@ -110,6 +108,7 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 - http://nodeschool.io/
 - https://www.codeschool.com/courses/real-time-web-with-nodejs
 - [The dead-simple step-by-step guide for front-end developers to getting up and running with node.js, express, jade, and mongodb](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
+- [Make a RESTful todo app](http://webapplog.com/todo-app-with-express-jsnode-js-and-mongodb/)
 
 ### Authentication
 - [Authentication](http://scotch.io/tutorials/javascript/easy-node-authentication-setup-and-local) - Goes over local, facebook & twitter authentication.
@@ -130,6 +129,8 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 - [Node.js has Arrived!](http://vimeo.com/70603516) - In this video, Node.js core committer Bert Belder discusses some of the new features in Node v0.12 including Streams3, VM improvements, cluster round-robin, execSync and profiling APIs.
 - [Getting started with node.js](http://channel9.msdn.com/Series/Visual-Studio-Online-Monaco/Getting-started-with-nodejs) at [channel9.msdn.com](channel9.msdn.com)
 -[Basics of Express and Mongo](http://www.youtube.com/watch?v=eD2I0zAjM5g&list=PLw2e3dFxewkLL73aUzOP-efQnXOTtMLbY)
+-[Getting Started with Sails.js](http://irlnathan.github.io/sailscasts/)
+-[History of Node.js](http://www.youtube.com/watch?v=SAc0vQCC6UQ)
 
 ## Free Courses
 - [Startup engineering by Stanford](https://www.coursera.org/course/startup)
@@ -175,7 +176,13 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 - [total.js](https://github.com/totaljs/framework) - web application framework for creating a rich web sites and web services
 - [SocketStream](https://github.com/socketstream/socketstream) - A fast, modular Node.js web framework dedicated to building realtime single-page apps
 - [Compound](http://compoundjs.com/) - Compound's formula is Express + structure + extensions
+- [Kraken](https://github.com/paypal/kraken-js) - Paypal's web application bootstrapping module.
 
+## CMS
+-[Ghost](https://ghost.org/)
+-[Keystone](http://keystonejs.com/)
+-[Calipso](http://calip.so/)
+-[Hatch](http://hatchjs.com/)
 
 ## Libraries
 
