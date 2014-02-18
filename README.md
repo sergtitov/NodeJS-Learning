@@ -63,7 +63,14 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 
 ## Fundamentals
 
-- Why Node.js (TODO)
+- [Node.js FUNdamentals: A Concise Overview of The Main Concepts](http://webapplog.com/node-js-fundamentals-a-concise-overview-of-the-main-concepts)
+- Why Node.js
+    - [Why The Hell Would I Use Node.js? A Case-by-Case Introduction](http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js)
+    - [Why I use Node.js?](http://pettergraff.blogspot.com/2013/01/why-node.html)
+    - [PHP vs. Node.js](http://webapplog.com/php-vs-node-js/)
+- Migrating to Node.js
+    - [Dismantling the Monoliths](https://engineering.groupon.com/2013/misc/i-tier-dismantling-the-monoliths/)
+    - [Node.js at PayPal](https://www.paypal-engineering.com/2013/11/22/node-js-at-paypal/)
 - [Official Documentation](http://nodejs.org/api/)
 - CommonJS Module System
     - http://docs.nodejitsu.com/articles/getting-started/what-is-require)
