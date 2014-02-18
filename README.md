@@ -78,7 +78,7 @@ To use Node.js you need to have a decent understanding of JavaScript language.
 - [Using Node's Event Module](http://code.tutsplus.com/tutorials/using-nodes-event-module--net-35941)
 - [Understanding exports vs. module.exports](http://openmymind.net/2012/2/3/Node-Require-and-Exports/)
 
-## Asyncrhonous Programming
+## Asynchronous Programming
 
 - [Understanding the node.js event loop](http://blog.mixu.net/2011/02/01/understanding-the-node-js-event-loop/)
 
