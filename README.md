@@ -20,6 +20,7 @@ To use Node.js you need to have a decent understanding of JavaScript language.
 - [Crockford's videos](http://yuiblog.com/crockford/)
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
 - [Essential JavaScript Design Patterns For Beginners](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [Advanced JavaScript Fundamentals](http://blog.buymeasoda.com/advanced-javascript-fundamentals/)
 - [Understand JavaScript Closures With Ease](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
 - [JavaScript garden](http://bonsaiden.github.com/JavaScript-Garden/)
 - [JavaScript Patterns Book](http://oreilly.com/catalog/9780596806767)
