@@ -109,9 +109,10 @@ To use Node.js you need to have a decent understanding of JavaScript language.
 
 ## Debugging
 
-- https://github.com/node-inspector/node-inspector
-- http://howtonode.org/debugging-with-node-inspector
-- https://github.com/joyent/node/wiki/Using-Eclipse-as-Node-Applications-Debugger
+- [What’s New in Node.js v0.12: Debugging Clustered Apps with Node-Inspector](http://strongloop.com/strongblog/whats-new-nodejs-v0-12-debugging-clusters/)
+- [Video: Debugging Node.js with node-inspector](http://www.youtube.com/watch?v=03qGA-GJXjI)
+- [node-inspector](https://github.com/node-inspector/node-inspector)
+- [Using Eclipse as Node Applications Debugger](https://github.com/joyent/node/wiki/Using-Eclipse-as-Node-Applications-Debugger)
 
 ## Tutorials
 
