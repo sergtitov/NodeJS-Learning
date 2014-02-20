@@ -1,7 +1,7 @@
 NodeJS-Learning
 ===============
 
-Learnign node.js made easy. This page contains collection of curated links to blog posts, articles, videos, tutorials, books, frameworks, modules, IDEs, testing tools, hosting providers, etc. to help you learn Node.js and keep up to date.
+Learning node.js made easy. This page contains collection of curated links to blog posts, articles, videos, tutorials, books, frameworks, modules, IDEs, testing tools, hosting providers, etc. to help you learn Node.js and keep up to date.
 
 It was just created and will be actively updated. Please fork and submit your pull-requests, if you would like to contribute. Thanks!
 
