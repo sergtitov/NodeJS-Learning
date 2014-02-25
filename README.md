@@ -274,7 +274,7 @@ Inspired by amazing [AngularJS-Learning](https://github.com/jmcunningham/Angular
 - [Pavel Voronin](https://github.com/voroninpaul)
 - [jacksongeller](https://github.com/jacksongeller)
 - [Pana Wang](https://github.com/Pana)
-- [Stephen Keep](https://github.com/stephenkeepc)
+- [Stephen Keep](https://github.com/stephenkeep)
 
   [co]: https://github.com/visionmedia/co
 
