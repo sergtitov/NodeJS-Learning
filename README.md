@@ -44,6 +44,7 @@ To use Node.js you need to have a decent understanding of JavaScript language.
 - [Nodeclipse & Enide](http://www.nodeclipse.org/) - is free open-source IDE based on Eclipse.
 - [Aptana Studio](http://www.aptana.com/)
 - [Scripted](https://github.com/scripted-editor/scripted) 
+- [Brackets](http://brackets.io/)
 
 ### Online
 
@@ -175,6 +176,7 @@ To use Node.js you need to have a decent understanding of JavaScript language.
 - [JavaScript on the Server Using Node.js and Express](http://www.amazon.com/JavaScript-Server-Node-js-Express-Development/dp/0956737080/ref=sr_1_20?s=books&ie=UTF8&qid=1391739340&sr=1-20&keywords=%22node.js%22)
 - [Express.js Guide](http://www.amazon.com/Express-js-Guide-Comprehensive-Book/dp/1494269279/ref=sr_1_2?s=books&ie=UTF8&qid=1391740486&sr=1-2&keywords=%22node.js%22+express)
 - [Node js The Right Way](http://www.amazon.com/Node-js-Right-Way-Server-Side-JavaScript/dp/1937785734/ref=sr_1_1?ie=UTF8&qid=1393208626&sr=8-1&keywords=Node+js+The+Right+Way.)
+- [Learn JS](http://learnjs.io/)
 
 ## Frameworks
 
@@ -191,6 +193,10 @@ To use Node.js you need to have a decent understanding of JavaScript language.
 - [SocketStream](https://github.com/socketstream/socketstream) - A fast, modular Node.js web framework dedicated to building realtime single-page apps
 - [Compound](http://compoundjs.com/) - Compound's formula is Express + structure + extensions
 - [Kraken](https://github.com/paypal/kraken-js) - Paypal's web application bootstrapping module.
+
+## CLI TOOLS
+
+- [Nodemon](http://remysharp.com/2014/01/20/nodemon-1-0/)
 
 ## CMS
 - [Ghost](https://ghost.org/)
@@ -231,6 +237,7 @@ To use Node.js you need to have a decent understanding of JavaScript language.
 - [CNode](http://cnodejs.org/) - Node.js professional Chinese community
 - [Node.js on Reddit](http://www.reddit.com/r/node/)
 - [Stackoverflow Node.js tag](http://stackoverflow.com/questions/tagged/node.js)
+- [NodeJsForums.com](http://www.nodejsforums.com)
 - IRC - For real-time chat about Node development go to [irc.freenode.net](irc.freenode.net) in the **#node.js** channel with an [IRC client](http://colloquy.info/) or connect in your web browser to the channel using [freenode's WebChat](http://webchat.freenode.net/?channels=node.js).
  
 ## Blogs/News
@@ -267,6 +274,7 @@ Inspired by amazing [AngularJS-Learning](https://github.com/jmcunningham/Angular
 - [Pavel Voronin](https://github.com/voroninpaul)
 - [jacksongeller](https://github.com/jacksongeller)
 - [Pana Wang](https://github.com/Pana)
+- [Stephen Keep](https://github.com/stephenkeep)
 
   [co]: https://github.com/visionmedia/co
 
