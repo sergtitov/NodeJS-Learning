@@ -1,7 +1,7 @@
 NodeJS-Learning
 ===============
 
-Learnign node.js made easy. This page contains collection of curated links to blog posts, articles, videos, tutorials, books, frameworks, modules, IDEs, testing tools, hosting providers, etc. to help you learn Node.js and keep up to date.
+Learning node.js made easy. This page contains collection of curated links to blog posts, articles, videos, tutorials, books, frameworks, modules, IDEs, testing tools, hosting providers, etc. to help you learn Node.js and keep up to date.
 
 It was just created and will be actively updated. Please fork and submit your pull-requests, if you would like to contribute. Thanks!
 
@@ -15,11 +15,12 @@ Go to http://nodejs.org/, download node.js installer and follow instructions. Ma
 
 ## JavaScript
 
-To use Node.js you need to have a decent understanding of JavaScirpt language.
-
+To use Node.js you need to have a decent understanding of JavaScript language.
+- [Codecademy - JS](http://www.codecademy.com/tracks/javascript) - Good for practicing and learning syntax.
 - [Crockford's videos](http://yuiblog.com/crockford/)
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
 - [Essential JavaScript Design Patterns For Beginners](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [Advanced JavaScript Fundamentals](http://blog.buymeasoda.com/advanced-javascript-fundamentals/)
 - [Understand JavaScript Closures With Ease](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
 - [JavaScript garden](http://bonsaiden.github.com/JavaScript-Garden/)
 - [JavaScript Patterns Book](http://oreilly.com/catalog/9780596806767)
@@ -28,8 +29,6 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 
 
 ## Development Tools/IDEs
-
-### Desktop IDEs
 
 - [Yeoman](http://yeoman.io/) - Project and modules generator
 - [Gulp](http://gulpjs.com/) - Task runner/build system
@@ -45,6 +44,7 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 - [Nodeclipse & Enide](http://www.nodeclipse.org/) - is free open-source IDE based on Eclipse.
 - [Aptana Studio](http://www.aptana.com/)
 - [Scripted](https://github.com/scripted-editor/scripted) 
+- [Brackets](http://brackets.io/)
 
 ### Online
 
@@ -57,8 +57,8 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 
 - [Nodejitsu](https://www.nodejitsu.com/) - hosting, databases and private NPM. Free for Open Source.
 - [OpenShift](https://www.openshift.com/developers/node-js)
-- [Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
-- [Modulus](https://modulus.io/) -Scalable application platform (PaaS) for developers, offering Node.js hosting, MongoDB, and performance analytics in the cloud. Try us for free.
+- [Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) - Dead simple to use.
+- [Modulus](https://modulus.io/) -Scalable application platform (PaaS) for developers, offering Node.js hosting, MongoDB, and performance analytics in the cloud.
 
 
 ## Fundamentals
@@ -80,7 +80,7 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 - [Using Node's Event Module](http://code.tutsplus.com/tutorials/using-nodes-event-module--net-35941)
 - [Understanding exports vs. module.exports](http://openmymind.net/2012/2/3/Node-Require-and-Exports/)
 
-## Asyncrhonous Programming
+## Asynchronous Programming
 
 - [Understanding the node.js event loop](http://blog.mixu.net/2011/02/01/understanding-the-node-js-event-loop/)
 
@@ -110,15 +110,17 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 
 ## Debugging
 
-- https://github.com/node-inspector/node-inspector
-- http://howtonode.org/debugging-with-node-inspector
-- https://github.com/joyent/node/wiki/Using-Eclipse-as-Node-Applications-Debugger
+- [What’s New in Node.js v0.12: Debugging Clustered Apps with Node-Inspector](http://strongloop.com/strongblog/whats-new-nodejs-v0-12-debugging-clusters/)
+- [Video: Debugging Node.js with node-inspector](http://www.youtube.com/watch?v=03qGA-GJXjI)
+- [node-inspector](https://github.com/node-inspector/node-inspector)
+- [Using Eclipse as Node Applications Debugger](https://github.com/joyent/node/wiki/Using-Eclipse-as-Node-Applications-Debugger)
 
 ## Tutorials
 
 - http://nodeschool.io/
 - https://www.codeschool.com/courses/real-time-web-with-nodejs
 - [The dead-simple step-by-step guide for front-end developers to getting up and running with node.js, express, jade, and mongodb](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
+- [Make a RESTful todo app](http://webapplog.com/todo-app-with-express-jsnode-js-and-mongodb/)
 
 ### Authentication
 - [Authentication](http://scotch.io/tutorials/javascript/easy-node-authentication-setup-and-local) - Goes over local, facebook & twitter authentication.
@@ -133,12 +135,15 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 ## Videos
 
 - [Introduction to Node.js with Ryan Dahl](http://www.youtube.com/watch?v=jo_B4LTHi3I) - Ryan Dahl is a Node.js creator. Must see.
+- [Alex Ford: Node.js & Express 101](http://www.youtube.com/watch?v=BN0JlMZCtNU)
 - [142 conference presentation Videos](http://lanyrd.com/topics/nodejs/video/) from [Lanyard.com](http://lanyrd.com/)
 - [Node.js video tutorials by Pedro Teixeira](http://nodetuts.com/)
 - [Collection of node.js video tutorials](http://vidinterest.com/playlist/enbeeone3/nodejs-tutorial-videos) at [vidinterest.com](vidinterest.com)
 - [Node.js has Arrived!](http://vimeo.com/70603516) - In this video, Node.js core committer Bert Belder discusses some of the new features in Node v0.12 including Streams3, VM improvements, cluster round-robin, execSync and profiling APIs.
 - [Getting started with node.js](http://channel9.msdn.com/Series/Visual-Studio-Online-Monaco/Getting-started-with-nodejs) at [channel9.msdn.com](channel9.msdn.com)
 -[Basics of Express and Mongo](http://www.youtube.com/watch?v=eD2I0zAjM5g&list=PLw2e3dFxewkLL73aUzOP-efQnXOTtMLbY)
+-[Getting Started with Sails.js](http://irlnathan.github.io/sailscasts/)
+-[History of Node.js](http://www.youtube.com/watch?v=SAc0vQCC6UQ)
 
 ## Free Courses
 - [Startup engineering by Stanford](https://www.coursera.org/course/startup)
@@ -163,12 +168,16 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 - [JavaScript and Node FUNdamentals](https://leanpub.com/jsfun/read)
 - [Mixu's Node book](http://book.mixu.net/node/)
 - [A collection of Node.js books](http://book.rednode.cn/)
+- [Mastering Node.js](http://visionmedia.github.io/masteringnode/)
 
 ## Paid Books
 
 - [Node.js in Action](http://www.amazon.com/Node-js-Action-Mike-Cantelon/dp/1617290572/ref=sr_1_1?s=books&ie=UTF8&qid=1391739265&sr=1-1&keywords=%22node.js%22)
+- [Learning Node.js: A Hands-On Guide to Building Web Applications in JavaScript Marc Wandschneide](http://www.amazon.com/Learning-Node-js-Hands-On-Applications-JavaScript/dp/0321910575/ref=sr_1_1?ie=UTF8&qid=1394518585&sr=8-1&keywords=learning+node.js)
 - [JavaScript on the Server Using Node.js and Express](http://www.amazon.com/JavaScript-Server-Node-js-Express-Development/dp/0956737080/ref=sr_1_20?s=books&ie=UTF8&qid=1391739340&sr=1-20&keywords=%22node.js%22)
 - [Express.js Guide](http://www.amazon.com/Express-js-Guide-Comprehensive-Book/dp/1494269279/ref=sr_1_2?s=books&ie=UTF8&qid=1391740486&sr=1-2&keywords=%22node.js%22+express)
+- [Node js The Right Way](http://www.amazon.com/Node-js-Right-Way-Server-Side-JavaScript/dp/1937785734/ref=sr_1_1?ie=UTF8&qid=1393208626&sr=8-1&keywords=Node+js+The+Right+Way.)
+- [Learn JS](http://learnjs.io/)
 
 ## Frameworks
 
@@ -184,7 +193,17 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 - [total.js](https://github.com/totaljs/framework) - web application framework for creating a rich web sites and web services
 - [SocketStream](https://github.com/socketstream/socketstream) - A fast, modular Node.js web framework dedicated to building realtime single-page apps
 - [Compound](http://compoundjs.com/) - Compound's formula is Express + structure + extensions
+- [Kraken](https://github.com/paypal/kraken-js) - Paypal's web application bootstrapping module.
 
+## CLI TOOLS
+
+- [Nodemon](http://remysharp.com/2014/01/20/nodemon-1-0/)
+
+## CMS
+- [Ghost](https://ghost.org/)
+- [Keystone](http://keystonejs.com/)
+- [Calipso](http://calip.so/)
+- [Hatch](http://hatchjs.com/)
 
 ## Libraries
 
@@ -219,6 +238,7 @@ To use Node.js you need to have a decent understanding of JavaScirpt language.
 - [CNode](http://cnodejs.org/) - Node.js professional Chinese community
 - [Node.js on Reddit](http://www.reddit.com/r/node/)
 - [Stackoverflow Node.js tag](http://stackoverflow.com/questions/tagged/node.js)
+- [NodeJsForums.com](http://www.nodejsforums.com)
 - IRC - For real-time chat about Node development go to [irc.freenode.net](irc.freenode.net) in the **#node.js** channel with an [IRC client](http://colloquy.info/) or connect in your web browser to the channel using [freenode's WebChat](http://webchat.freenode.net/?channels=node.js).
  
 ## Blogs/News
@@ -253,6 +273,9 @@ Inspired by amazing [AngularJS-Learning](https://github.com/jmcunningham/Angular
 
 - [Eugene Tsypkin](https://github.com/jhony-chikens)
 - [Pavel Voronin](https://github.com/voroninpaul)
+- [jacksongeller](https://github.com/jacksongeller)
+- [Pana Wang](https://github.com/Pana)
+- [Stephen Keep](https://github.com/stephenkeep)
 
   [co]: https://github.com/visionmedia/co
 
