@@ -181,19 +181,24 @@ To use Node.js you need to have a decent understanding of JavaScript language.
 
 ## Frameworks
 
-- [express.js](http://expressjs.com/guide.html) - Sinatra inspired web development framework for node.js;
-- [socket.io](https://github.com/LearnBoost/socket.io) - Realtime application framework for Node.JS, with HTML5 WebSockets and cross-browser fallbacks support
-- [express.io](https://github.com/techpines/express.io) = express + socket.io
-- [koa](https://github.com/koajs/koa) - Expressive middleware for node.js using generators based on [co];
-- [meteor.js](https://github.com/meteor/meteor) - Meteor is an ultra-simple environment for building modern web applications. Built using node.js Meteor is a framework on its own. Please see [amazing list of Meteor resources](http://yauh.de/articles/376/best-learning-resources-for-meteorjs) for more information.
-- [Geddy](http://geddyjs.org) - A simple, structured web framework for Node
-- [Derby](https://github.com/codeparty/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers
-- [Sails.js](http://sailsjs.org) - Realtime MVC Framework for Node.js
-- [Flatiron](https://github.com/flatiron/flatiron) - framework components for node.js and the browser
-- [total.js](https://github.com/totaljs/framework) - web application framework for creating a rich web sites and web services
-- [SocketStream](https://github.com/socketstream/socketstream) - A fast, modular Node.js web framework dedicated to building realtime single-page apps
-- [Compound](http://compoundjs.com/) - Compound's formula is Express + structure + extensions
-- [Kraken](https://github.com/paypal/kraken-js) - Paypal's web application bootstrapping module.
+- Sinatra like:
+    - [connect](https://github.com/senchalabs/connect) - an extensible HTTP server framework for Node.js using "plugins" known as middleware.
+    - [express.js](http://expressjs.com/guide.html) - a Sinatra inspired Web development framework for Node.js.
+    - [hapi](https://github.com/spumko/hapi) - a rich framework for building Web applications and services.
+    - [express.io](https://github.com/techpines/express.io) = Express + Socket.io.
+    - [koa](https://github.com/koajs/koa) - an expressive middleware for Node.js using generators.
+    - [Flatiron](https://github.com/flatiron/flatiron) - framework components for Node.js and a browser.
+    - [total.js](https://github.com/totaljs/framework) - a Web application framework for creating rich Web sites and Web services.
+- MVC:
+    - [Geddy](http://geddyjs.org) - a simple, structured Web framework for Node.js.
+    - [Sails.js](http://sailsjs.org) - a realtime MVC Framework for Node.js.
+    - [Compound](http://compoundjs.com/) - the compound formula is Express + Structure + Extensions.    
+- Full stuck:
+    - [meteor.js](https://github.com/meteor/meteor) - Meteor is an ultra-simple environment for building modern Web applications. Built using Node.js, Meteor is a framework on its own. Please see an [amazing list of Meteor resources](http://yauh.de/articles/376/best-learning-resources-for-meteorjs) for more information.
+    - [Derby](https://github.com/codeparty/derby) - the MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
+    - [SocketStream](https://github.com/socketstream/socketstream) - A fast, modular Node.js Web framework dedicated to building realtime single-page applications.
+
+If you would like to learn more about Node.js frameworks, please visit [nodeframework.com](http://nodeframework.com/) and [nodewebmodules.com](http://nodewebmodules.com).
 
 ## CLI TOOLS
 
@@ -207,25 +212,46 @@ To use Node.js you need to have a decent understanding of JavaScript language.
 
 ## Libraries
 
-- connect
-- Jade
-- [co][co] - The ultimate generator based flow-control goodness for nodejs;
-- ejs
-- lodash
-- request
-- config
-- Mongoose
+- [socket.io](https://github.com/LearnBoost/socket.io) - a realtime application framework for Node.JS, with HTML5 WebSockets and cross-browser fallbacks support.
+- [mongoose](https://github.com/LearnBoost/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
+- [winston](http://github.com/flatiron/winston) - a multi-transport asynchronous logging library for Node.js
+- [passport](https://github.com/jaredhanson/passport) - simple, unobtrusive authentication for Node.js.
+- [async](https://github.com/caolan/async) - asynchronous utilities for Node and the browser.
+- [Q](https://github.com/kriskowal/q) - a tool for making and composing asynchronous promises in JavaScript.
+- [co](https://github.com/visionmedia/co) - the ultimate generator based flow-control goodness for nodejs;
+- [jade](https://github.com/visionmedia/jade) - Jade - a robust, elegant, feature-rich template engine for Node.js.
+- [ejs](https://github.com/visionmedia/ejs) - embedded JavaScript templates for Node.js.
+- [lodash](https://github.com/lodash/lodash) - a utility library delivering consistency, customization, performance, and extras.
+- [request](https://github.com/mikeal/request) - a simplified HTTP request client.
+- [config](https://github.com/lorenwest/node-config) - a runtime configuration for Node.js. modules.
+
 
 ### Authentication and Security
 - [Passport](http://passportjs.org/) - simple, unobtrusive authentication for Node.js that supports OpenID and OAuth.
 
 
+#
 ## Testing
 
-- TODO
+Read about various approaches to testing Node.js code:
 
 - [Testing in Node.js](http://code.tutsplus.com/tutorials/testing-in-nodejs--net-35018)
 - [Testing NodeJS with Mocha, Should, Sinon, and JSCoverage](http://www.slideshare.net/mlilley/testing-node-js-with-mocha)
+- [Setting up Mocha and JSCoverage](http://www.seejohncode.com/2012/03/13/setting-up-mocha-jscoverage/)
+- [Acceptance testing with supertest](http://www.scotchmedia.com/tutorials/express/authentication/2/02)
+- [Testing node.js applications with Jasmine](http://blog.codeship.io/2013/08/20/testing-tuesday-19-how-to-test-node-js-applications-with-jasmine.html)
+- [Mocking Dependencies using [rewire]](http://howtonode.org/mocking-private-dependencies-using-rewire)
+
+Some popular testing frameworks:
+
+- [mocha](https://github.com/visionmedia/mocha) -  a simple, flexible JavaScript test framework for Node.js and a browser. (BDD, TDD, QUnit styles via interfaces).
+- [jasmin-node](https://github.com/mhevery/jasmine-node) - integration of the Jasmine Spec framework with Node.js.
+- [sinon](https://github.com/cjohansen/Sinon.JS) - test spies, stubs, and mocks for JavaScript.
+- [chai](https://github.com/chaijs/chai) - a BDD / TDD assertion framework for Node.js and a browser. 
+- [supertest](https://github.com/visionmedia/supertest) - a super-agent driven library for testing Node.js HTTP servers using a fluent API.
+- [rewire](https://github.com/jhnns/rewire) - a dependency injection for Node.js applications.
+- [node-jscoverage](https://github.com/visionmedia/node-jscoverage) - JSCoverage for Node.js.
+
 
 ## Keep up to date
 
