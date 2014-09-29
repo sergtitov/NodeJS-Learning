@@ -193,7 +193,7 @@ To use Node.js you need to have a decent understanding of JavaScript language.
     - [Geddy](http://geddyjs.org) - a simple, structured Web framework for Node.js.
     - [Sails.js](http://sailsjs.org) - a realtime MVC Framework for Node.js.
     - [Compound](http://compoundjs.com/) - the compound formula is Express + Structure + Extensions.    
-- Full stuck:
+- Full stack:
     - [meteor.js](https://github.com/meteor/meteor) - Meteor is an ultra-simple environment for building modern Web applications. Built using Node.js, Meteor is a framework on its own. Please see an [amazing list of Meteor resources](http://yauh.de/articles/376/best-learning-resources-for-meteorjs) for more information.
     - [Derby](https://github.com/codeparty/derby) - the MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
     - [SocketStream](https://github.com/socketstream/socketstream) - A fast, modular Node.js Web framework dedicated to building realtime single-page applications.
