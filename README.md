@@ -1,5 +1,6 @@
 NodeJS-Learning
 ===============
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/sergtitov/NodeJS-Learning?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Learning node.js made easy. This page contains collection of curated links to blog posts, articles, videos, tutorials, books, frameworks, modules, IDEs, testing tools, hosting providers, etc. to help you learn Node.js and keep up to date.
 
