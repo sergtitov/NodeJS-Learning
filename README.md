@@ -40,7 +40,7 @@ To use Node.js you need to have a decent understanding of JavaScript language.
 - [Nodejs Sublime Text 2 Package](https://github.com/tanepiper/SublimeText-Nodejs) - a set of code completion, scripts and tools to work with Node.js.
 - [WebMatrix](http://www.microsoft.com/web/webmatrix/) - is a free, lightweight, cloud-connected web development tool from Microsoft.
 - [CodeRunner](http://krillapps.com/coderunner/) - Mac only paid IDE.
-- [Komodo](http://www.activestate.com/komodo-ide/features) - full-featured IDE from AciveState is paid but there is also lean free version [Komodo Edit](http://www.activestate.com/komodo-edit).
+- [Komodo](http://www.activestate.com/komodo-ide/features) - full-featured IDE from ActiveState is paid but there is also lean free version [Komodo Edit](http://www.activestate.com/komodo-edit).
 - [Nide](http://coreh.github.io/nide/) - is a web-based IDE for Node.JS that can run locally or on a remote server. Available both as a command-line tool and as a standalone Mac app.
 - [Nodeclipse & Enide](http://www.nodeclipse.org/) - is free open-source IDE based on Eclipse.
 - [Aptana Studio](http://www.aptana.com/)
