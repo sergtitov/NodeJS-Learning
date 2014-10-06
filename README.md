@@ -211,6 +211,18 @@ If you would like to learn more about Node.js frameworks, please visit [nodefram
 - [Calipso](http://calip.so/)
 - [Hatch](http://hatchjs.com/)
 
+## Static Site Generators
+- [Hexo](http://hexo.io/) - fast, simple & powerful blog framework.
+- [Metalsmith](http://www.metalsmith.io/) - extremely simple, pluggable static site generator.
+- [Harp](http://harpjs.com/) - static web server with built-in preprocessing.
+- [Assemble](http://assemble.io/) - static site generator for Grunt.js, Yeoman and Node.js.
+- [Wheat](https://github.com/creationix/wheat) - a blog engine for coders written in node.JS.
+- [Punch](https://github.com/laktek/punch) - a fun and easy way to build modern websites.
+- [Blacksmith](https://github.com/flatiron/blacksmith) - generic static site generator built using flatiron, plates, and marked.
+- [Poet](https://github.com/jsantell/poet) - a node.js blog engine.
+
+> See extensive collection of Static Site Generators including other languages at http://www.staticgen.com/
+
 ## Libraries
 
 - [socket.io](https://github.com/LearnBoost/socket.io) - a realtime application framework for Node.JS, with HTML5 WebSockets and cross-browser fallbacks support.
