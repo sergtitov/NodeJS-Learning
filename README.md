@@ -146,6 +146,7 @@ To use Node.js you need to have a decent understanding of JavaScript language.
 -[Basics of Express and Mongo](http://www.youtube.com/watch?v=eD2I0zAjM5g&list=PLw2e3dFxewkLL73aUzOP-efQnXOTtMLbY)
 -[Getting Started with Sails.js](http://irlnathan.github.io/sailscasts/)
 -[History of Node.js](http://www.youtube.com/watch?v=SAc0vQCC6UQ)
+- [StrongLoop Talks](https://strongloop.com/node-js/videos/)
 
 ## Free Courses
 - [Startup engineering by Stanford](https://www.coursera.org/course/startup)
