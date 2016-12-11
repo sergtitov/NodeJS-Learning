@@ -256,6 +256,7 @@ Read about various approaches to testing Node.js code:
 - [Acceptance testing with supertest](http://www.scotchmedia.com/tutorials/express/authentication/2/02)
 - [Testing node.js applications with Jasmine](http://blog.codeship.io/2013/08/20/testing-tuesday-19-how-to-test-node-js-applications-with-jasmine.html)
 - [Mocking Dependencies using [rewire]](http://howtonode.org/mocking-private-dependencies-using-rewire)
+- [Unit Testing and TDD in Node.js – Part 1](https://www.codementor.io/nodejs/tutorial/unit-testing-nodejs-tdd-mocha-sinon), [Part 2](https://www.codementor.io/nodejs/tutorial/unit-testing-tdd-node-js-nockjs-part-2)
 
 Some popular testing frameworks:
 
