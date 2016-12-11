@@ -123,6 +123,7 @@ To use Node.js you need to have a decent understanding of JavaScript language.
 - https://www.codeschool.com/courses/real-time-web-with-nodejs
 - [The dead-simple step-by-step guide for front-end developers to getting up and running with node.js, express, jade, and mongodb](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
 - [Make a RESTful todo app](http://webapplog.com/todo-app-with-express-jsnode-js-and-mongodb/)
+- [Make a simple CRUD app](http://mherman.org/blog/2015/08/24/node-express-swig-mongo-primer/)
 
 ### Authentication
 - [Authentication](http://scotch.io/tutorials/javascript/easy-node-authentication-setup-and-local) - Goes over local, facebook & twitter authentication.
