@@ -18,7 +18,7 @@ Go to http://nodejs.org/, download node.js installer and follow instructions. Ma
 
 To use Node.js you need to have a decent understanding of JavaScript language.
 - [Codecademy - JS](http://www.codecademy.com/tracks/javascript) - Good for practicing and learning syntax.
-- [Crockford's videos](http://yuiblog.com/crockford/)
+- [Crockford's videos](http://javascript.crockford.com/)
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
 - [Essential JavaScript Design Patterns For Beginners](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [Advanced JavaScript Fundamentals](http://blog.buymeasoda.com/advanced-javascript-fundamentals/)
