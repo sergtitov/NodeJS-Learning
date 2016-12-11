@@ -61,6 +61,7 @@ To use Node.js you need to have a decent understanding of JavaScript language.
 - [Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) - Dead simple to use.
 - [Modulus](https://modulus.io/) -Scalable application platform (PaaS) for developers, offering Node.js hosting, MongoDB, and performance analytics in the cloud.
 - [Codio](https://codio.com/) - Powerful web based IDE, free for public projects
+- [Digital Ocean](https://www.digitalocean.com) - cloud infrastructure provider
 
 
 ## Fundamentals
