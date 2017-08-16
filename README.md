@@ -184,6 +184,8 @@ To use Node.js you need to have a decent understanding of JavaScript language.
 - [Express.js Guide](http://www.amazon.com/Express-js-Guide-Comprehensive-Book/dp/1494269279/ref=sr_1_2?s=books&ie=UTF8&qid=1391740486&sr=1-2&keywords=%22node.js%22+express)
 - [Node js The Right Way](http://www.amazon.com/Node-js-Right-Way-Server-Side-JavaScript/dp/1937785734/ref=sr_1_1?ie=UTF8&qid=1393208626&sr=8-1&keywords=Node+js+The+Right+Way.)
 - [Learn JS](http://learnjs.io/)
+- [Get Programming with Node.js](https://www.manning.com/books/get-programming-with-node-js)
+
 
 ## Frameworks
 
