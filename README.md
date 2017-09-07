@@ -46,7 +46,7 @@ To use Node.js you need to have a decent understanding of JavaScript language.
 - [Aptana Studio](http://www.aptana.com/)
 - [Scripted](https://github.com/scripted-editor/scripted) 
 - [Brackets](http://brackets.io/)
-
+- [Visual Studio Code](https://code.visualstudio.com/)
 ### Online
 
 - [Cloud9](https://c9.io/) - cloud-based IDE with native support for development of Node.js applications including debugging and other features. Note that you can also [install it locally](http://www.cambus.net/setting-up-a-node-js-development-environment-with-npm-and-cloud9-ide-installed-locally/).
