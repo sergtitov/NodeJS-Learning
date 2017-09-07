@@ -35,7 +35,7 @@ To use Node.js you need to have a decent understanding of JavaScript language.
 - [Gulp](http://gulpjs.com/) - Task runner/build system
 - [Grunt]() - Task runner/build system
 - [WebStorm/PHPStorm](http://www.jetbrains.com/webstorm/) - popular and extremely powerful IDE for coding web applications. Paid but you can get it for free , if you are an open-source developer (requierd an application approval). 
-- [Node.js Tools for Visual Studio](https://nodejstools.codeplex.com/) - see [blog post](http://www.hanselman.com/blog/IntroducingNodejsToolsForVisualStudio.aspx) from team mamber Scott Hanselman.
+- [Node.js Tools for Visual Studio](https://nodejstools.codeplex.com/) - see [blog post](http://www.hanselman.com/blog/IntroducingNodejsToolsForVisualStudio.aspx) from team member Scott Hanselman.
 - NetBeans with [Node.js plugin](http://plugins.netbeans.org/plugin/36653/nodejs)
 - [Nodejs Sublime Text 2 Package](https://github.com/tanepiper/SublimeText-Nodejs) - a set of code completion, scripts and tools to work with Node.js.
 - [WebMatrix](http://www.microsoft.com/web/webmatrix/) - is a free, lightweight, cloud-connected web development tool from Microsoft.
