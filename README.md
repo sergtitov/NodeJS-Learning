@@ -154,6 +154,7 @@ To use Node.js you need to have a decent understanding of JavaScript language.
 
 ## Free Courses
 - [Startup engineering by Stanford](https://www.coursera.org/course/startup)
+- [NodeJS Exercises for Beginners](http://paqmind.com/courses/nodejs-beginner/)
 
 ## Paid Courses
 - [Real-time Web with Node.js](https://www.codeschool.com/courses/real-time-web-with-nodejs) from [codeschool.com](https://www.codeschool.com/)
