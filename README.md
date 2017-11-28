@@ -1,6 +1,6 @@
 NodeJS-Learning
 ===============
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/sergtitov/NodeJS-Learning?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sergtitov/NodeJS-Learning?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Learning node.js made easy. This page contains collection of curated links to blog posts, articles, videos, tutorials, books, frameworks, modules, IDEs, testing tools, hosting providers, etc. to help you learn Node.js and keep up to date.
 
@@ -126,6 +126,7 @@ To use Node.js you need to have a decent understanding of JavaScript language.
 - [Make a RESTful todo app](http://webapplog.com/todo-app-with-express-jsnode-js-and-mongodb/)
 - [Make a simple CRUD app](http://mherman.org/blog/2015/08/24/node-express-swig-mongo-primer/)
 - [NodeJS and JavaScript for 2016 Onwards](https://vinkaga.gitlab.io/learn-node/) - Slides based tutorial for server side JavaScript with NodeJS 6.x (beginner to intermediate). 
+- [How to add an API-Based CMS to NodeJS](https://www.storyblok.com/tp/node-js-cms) - How to integrate Storyblok, a component composer and headless CMS, to your Express.js app in a few easy steps.
 
 ### Authentication
 - [Authentication](http://scotch.io/tutorials/javascript/easy-node-authentication-setup-and-local) - Goes over local, facebook & twitter authentication.
