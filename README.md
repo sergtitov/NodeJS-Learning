@@ -121,6 +121,7 @@ To use Node.js you need to have a decent understanding of JavaScript language.
 ## Tutorials
 
 - http://nodeschool.io/
+- [Node js tutorial](https://hackr.io/tutorials/learn-node-js) - A user ranked online tutorials site hosting many relavant free and paid tutorials to learn Node js online.
 - https://www.codeschool.com/courses/real-time-web-with-nodejs
 - [The dead-simple step-by-step guide for front-end developers to getting up and running with node.js, express, jade, and mongodb](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
 - [Make a RESTful todo app](http://webapplog.com/todo-app-with-express-jsnode-js-and-mongodb/)
