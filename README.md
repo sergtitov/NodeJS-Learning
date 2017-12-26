@@ -128,6 +128,7 @@ To use Node.js you need to have a decent understanding of JavaScript language.
 - [Make a simple CRUD app](http://mherman.org/blog/2015/08/24/node-express-swig-mongo-primer/)
 - [NodeJS and JavaScript for 2016 Onwards](https://vinkaga.gitlab.io/learn-node/) - Slides based tutorial for server side JavaScript with NodeJS 6.x (beginner to intermediate). 
 - [How to add an API-Based CMS to NodeJS](https://www.storyblok.com/tp/node-js-cms) - How to integrate Storyblok, a component composer and headless CMS, to your Express.js app in a few easy steps.
+- [Node js tutorial](https://hackr.io/tutorials/learn-node-js) - A user ranked online tutorial site showing essential online tutorials to learn Node js from.
 
 ### Authentication
 - [Authentication](http://scotch.io/tutorials/javascript/easy-node-authentication-setup-and-local) - Goes over local, facebook & twitter authentication.
