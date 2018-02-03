@@ -313,8 +313,7 @@ You can find the most famous Node.js developer at [Nodemavens](http://nodemavens
 ## Resource
 - [Rednode garden](http://yuan.rednode.cn/resource)
 - [Nodecloud](http://nodecloud.com)
-
-
+- [Hackr.io](https://hackr.io/tutorials/learn-node-js)
 
 ## Credits
 
