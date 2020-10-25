@@ -248,6 +248,7 @@ If you would like to learn more about Node.js frameworks, please visit [nodefram
 - [lodash](https://github.com/lodash/lodash) - a utility library delivering consistency, customization, performance, and extras.
 - [request](https://github.com/mikeal/request) - a simplified HTTP request client.
 - [config](https://github.com/lorenwest/node-config) - a runtime configuration for Node.js. modules.
+- [joi](https://www.npmjs.com/package/joi) - The most powerful schema description language and data validator for JavaScript.
 
 
 ### Authentication and Security
