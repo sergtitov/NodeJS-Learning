@@ -27,6 +27,7 @@ To use Node.js you need to have a decent understanding of JavaScript language.
 - [JavaScript Patterns Book](http://oreilly.com/catalog/9780596806767)
 - [JavaScript: The Good Parts Book](http://oreilly.com/catalog/9780596517748/)
 - [JavaScript Promises](http://www.html5rocks.com/en/tutorials/es6/promises/)
+- [JavaScript Guide](https://www.scaler.com/topics/javascript/)
 
 
 ## Development Tools/IDEs
